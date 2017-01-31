@@ -1,0 +1,1 @@
+/Users/janjon01/openocd/bin/openocd -f /Users/janjon01/openocd/scripts/interface/cmsis-dap.cfg -f /Users/janjon01/openocd/scripts/target/stm32l1.cfg

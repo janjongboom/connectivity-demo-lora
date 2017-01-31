@@ -1,0 +1,6 @@
+.mbed
+.vscode/
+BUILD/
+mbed_settings.*
+libxDot-mbed5/
+mbed-os/
